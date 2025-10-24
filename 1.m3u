@@ -1,10 +1,15 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://p-img.movetv.com/cms/images/ed8adc6309b02d4b7fb208786a30ca04899e74b6.PNG" group-title="a" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", ESPN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/license?id=ca0cad8dbb4a4e68962810d8a6aa8b6a
-https://mc-ziu4j1o2ic.bunny.run/channel/ca0cad8dbb4a4e68962810d8a6aa8b6a/master.mpd
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" group-title="CHINESE" group-logo="https://get.perfecttv.net/logo/phoenixchinese.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png",135 Phoenix Chinese Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" group-title="CHINESE" group-logo="https://get.perfecttv.net/logo/phoenixchinese.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png",135 Phoenix Chinese Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://31.59.98.230:19091/dash-wv/linear/400/default_ott.mpd
 
 #EXTINF:-1 tvg-id="无线新闻台_mytvsuper_mpd_2" tvg-name="无线新闻台 (mytvsuper_mpd_2)" tvg-logo="https://assets.livednow.com/logo/无线新闻台.png" group-title="a", xx
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
