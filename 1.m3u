@@ -1,0 +1,19 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/cms/images/ed8adc6309b02d4b7fb208786a30ca04899e74b6.PNG" group-title="a" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", ESPN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/license?id=ca0cad8dbb4a4e68962810d8a6aa8b6a
+https://mc-ziu4j1o2ic.bunny.run/channel/ca0cad8dbb4a4e68962810d8a6aa8b6a/master.mpd
+
+#EXTINF:-1 tvg-id="无线新闻台_mytvsuper_mpd_2" tvg-name="无线新闻台 (mytvsuper_mpd_2)" tvg-logo="https://assets.livednow.com/logo/无线新闻台.png" group-title="a", 无线新闻台 (mytvsuper_mpd_2)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+http://xg.52sw.top/play/mytvsuper/mytv.php?id=C
+
+#EXTINF:-1 tvg-id="无线新闻台_mytvsuper_mpd_2" tvg-name="无线新闻台 (mytvsuper_mpd_2)" tvg-logo="https://assets.livednow.com/logo/无线新闻台.png" group-title="a", 无线新闻台 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=3e3a65da5487b4eebaec2c17f65cb723&ext_start_limit=1761370285&int_start_limit=1761370285&ts=1761370285&c=592974684
