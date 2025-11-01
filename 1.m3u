@@ -1,7 +1,1 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" group-title="CHINESE" group-logo="https://get.perfecttv.net/logo/phoenixchinese.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png",135 Phoenix Chinese Channel
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
-
