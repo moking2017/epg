@@ -8,7 +8,7 @@ API_URL = "https://www.881903.com/api/live/toolbar"
 channels = {
     "1": {"id": "881", "name": "商業電台 881"},
     "2": {"id": "903", "name": "商業電台 903"},
-    "3": {"id": "864", "name": "AM864"},
+    "4": {"id": "864", "name": "AM864"},
 }
 
 headers = {
