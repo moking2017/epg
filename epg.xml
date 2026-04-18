@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="881">
+    <display-name>商業電台 881</display-name>
+  </channel>
+  <channel id="903">
+    <display-name>商業電台 903</display-name>
+  </channel>
+  <channel id="864">
+    <display-name>AM864</display-name>
+  </channel>
+  <programme start="20260418020000 +0800" stop="20260418060000 +0800" channel="881">
+    <title lang="zh_HK">一切從音樂開始</title>
+    <desc>余宜發,蔡靜怡,江慧楓</desc>
+  </programme>
+  <programme start="20260418060000 +0800" stop="20260418070000 +0800" channel="881">
+    <title lang="zh_HK">天欣喜歡你</title>
+    <desc>天欣</desc>
+  </programme>
+  <programme start="20260418070000 +0800" stop="20260418071500 +0800" channel="881">
+    <title lang="zh_HK">新聞專輯</title>
+    <desc>新聞及公共事務部製作</desc>
+  </programme>
+  <programme start="20260418071500 +0800" stop="20260418080000 +0800" channel="881">
+    <title lang="zh_HK">天欣喜歡你</title>
+    <desc>天欣</desc>
+  </programme>
+  <programme start="20260418080000 +0800" stop="20260418100000 +0800" channel="881">
+    <title lang="zh_HK">政經星期六</title>
+    <desc>陳淑薇,張秀雲,羅輝</desc>
+  </programme>
+  <programme start="20260418100000 +0800" stop="20260418110000 +0800" channel="881">
+    <title lang="zh_HK">潮爆開運王</title>
+    <desc>李居明,江美儀,林寄韻</desc>
+  </programme>
+  <programme start="20260418110000 +0800" stop="20260418120000 +0800" channel="881">
+    <title lang="zh_HK">考股專家</title>
+    <desc>陳永陸,伍甄琪</desc>
+  </programme>
+  <programme start="20260418120000 +0800" stop="20260418123000 +0800" channel="881">
+    <title lang="zh_HK">新聞專輯</title>
+    <desc>新聞及公共事務部製作</desc>
+  </programme>
+  <programme start="20260418123000 +0800" stop="20260418130000 +0800" channel="881">
+    <title lang="zh_HK">再創生機</title>
+    <desc>余宜發</desc>
+  </programme>
+  <programme start="20260418130000 +0800" stop="20260418140000 +0800" channel="881">
+    <title lang="zh_HK">一台好戲</title>
+    <desc>馮志豐,朱菁</desc>
+  </programme>
+  <programme start="20260418140000 +0800" stop="20260418150000 +0800" channel="881">
+    <title lang="zh_HK">星光背後</title>
+    <desc>梁泰來</desc>
+  </programme>
+  <programme start="20260418150000 +0800" stop="20260418160000 +0800" channel="881">
+    <title lang="zh_HK">小姐，幾成熟？</title>
+    <desc>熊書頤,樂樂</desc>
+  </programme>
+  <programme start="20260418160000 +0800" stop="20260418163000 +0800" channel="881">
+    <title lang="zh_HK">貼身科技局</title>
+    <desc>梅力恆,伍甄琪,李兆綸</desc>
+  </programme>
+  <programme start="20260418163000 +0800" stop="20260418170000 +0800" channel="881">
+    <title lang="zh_HK">刨經解馬</title>
+    <desc>陳凱怡</desc>
+  </programme>
+  <programme start="20260418170000 +0800" stop="20260418180000 +0800" channel="881">
+    <title lang="zh_HK">大鐵人</title>
+    <desc>熊書頤,楊樂笙</desc>
+  </programme>
+  <programme start="20260418180000 +0800" stop="20260418183000 +0800" channel="881">
+    <title lang="zh_HK">新聞專輯</title>
+    <desc>新聞及公共事務部製作</desc>
+  </programme>
+  <programme start="20260418183000 +0800" stop="20260418200000 +0800" channel="881">
+    <title lang="zh_HK">樂齡王國</title>
+    <desc>何飛鳳,馮素波</desc>
+  </programme>
+  <programme start="20260418200000 +0800" stop="20260418210000 +0800" channel="881">
+    <title lang="zh_HK">天下盲盒 局勢開箱</title>
+    <desc>劉夢熊</desc>
+  </programme>
+  <programme start="20260418210000 +0800" stop="20260418213000 +0800" channel="881">
+    <title lang="zh_HK">寫生活</title>
+    <desc>881 主持人</desc>
+  </programme>
+  <programme start="20260418213000 +0800" stop="20260418223000 +0800" channel="881">
+    <title lang="zh_HK">營葉日常</title>
+    <desc>葉子</desc>
+  </programme>
+  <programme start="20260418223000 +0800" stop="20260418230000 +0800" channel="881">
+    <title lang="zh_HK">學在其中</title>
+    <desc>陳聰</desc>
+  </programme>
+  <programme start="20260418230000 +0800" stop="20260419000000 +0800" channel="881">
+    <title lang="zh_HK">與時並進</title>
+    <desc>時美真</desc>
+  </programme>
+  <programme start="20260419000000 +0800" stop="20260419010000 +0800" channel="881">
+    <title lang="zh_HK">「Z」火嘢 </title>
+    <desc>陳朗杰,葉子</desc>
+  </programme>
+  <programme start="20260419010000 +0800" stop="20260419020000 +0800" channel="881">
+    <title lang="zh_HK">發式生活</title>
+    <desc>余宜發</desc>
+  </programme>
+  <programme start="20260419020000 +0800" stop="20260419060000 +0800" channel="881">
+    <title lang="zh_HK">一切從音樂開始</title>
+    <desc>余宜發,蔡靜怡,江慧楓</desc>
+  </programme>
+  <programme start="20260419060000 +0800" stop="20260419070000 +0800" channel="881">
+    <title lang="zh_HK">書.情.歌</title>
+    <desc>葉宇澄</desc>
+  </programme>
+  <programme start="20260419070000 +0800" stop="20260419071500 +0800" channel="881">
+    <title lang="zh_HK">新聞專輯</title>
+    <desc>新聞及公共事務部製作</desc>
+  </programme>
+  <programme start="20260419071500 +0800" stop="20260419080000 +0800" channel="881">
+    <title lang="zh_HK">書.情.歌</title>
+    <desc>葉宇澄</desc>
+  </programme>
+  <programme start="20260419080000 +0800" stop="20260419100000 +0800" channel="881">
+    <title lang="zh_HK">政好星期天</title>
+    <desc>陳淑薇,羅輝,黃江天</desc>
+  </programme>
+  <programme start="20260419100000 +0800" stop="20260419110000 +0800" channel="881">
+    <title lang="zh_HK">馬路的事之友</title>
+    <desc>馬騮搣,Nic</desc>
+  </programme>
+  <programme start="20260419110000 +0800" stop="20260419120000 +0800" channel="881">
+    <title lang="zh_HK">同途有心人</title>
+    <desc>吳詠希</desc>
+  </programme>
+  <programme start="20260419120000 +0800" stop="20260419123000 +0800" channel="881">
+    <title lang="zh_HK">新聞專輯</title>
+    <desc>新聞及公共事務部製作</desc>
+  </programme>
+  <programme start="20260419123000 +0800" stop="20260419183000 +0800" channel="881">
+    <title lang="zh_HK">一馬當先（沙田）</title>
+    <desc>881 主持人</desc>
+  </programme>
+  <programme start="20260419183000 +0800" stop="20260419190000 +0800" channel="881">
+    <title lang="zh_HK">新聞專輯</title>
+    <desc>新聞及公共事務部製作</desc>
+  </programme>
+  <programme start="20260419190000 +0800" stop="20260419200000 +0800" channel="881">
+    <title lang="zh_HK">334 校網</title>
+    <desc>徐區懿華,梁永樂</desc>
+  </programme>
+  <programme start="20260419200000 +0800" stop="20260419210000 +0800" channel="881">
+    <title lang="zh_HK">吞食天下</title>
+    <desc>楊樂笙</desc>
+  </programme>
+  <programme start="20260419210000 +0800" stop="20260419220000 +0800" channel="881">
+    <title lang="zh_HK">夢想工</title>
+    <desc>阮子健</desc>
+  </programme>
+  <programme start="20260419220000 +0800" stop="20260419230000 +0800" channel="881">
+    <title lang="zh_HK">薯片鬚Music</title>
+    <desc>曾俊華</desc>
+  </programme>
+  <programme start="20260419230000 +0800" stop="20260420000000 +0800" channel="881">
+    <title lang="zh_HK">茜選快樂</title>
+    <desc>蘭茜</desc>
+  </programme>
+  <programme start="20260420000000 +0800" stop="20260420020000 +0800" channel="881">
+    <title lang="zh_HK">都是我的流行曲</title>
+    <desc>江健聰</desc>
+  </programme>
+  <programme start="20260418020000 +0800" stop="20260418060000 +0800" channel="903">
+    <title lang="zh_HK">一切從音樂開始</title>
+    <desc>余宜發,蔡靜怡,江慧楓</desc>
+  </programme>
+  <programme start="20260418060000 +0800" stop="20260418070000 +0800" channel="903">
+    <title lang="zh_HK">903 Good Morning Music</title>
+    <desc>DJ 16</desc>
+  </programme>
+  <programme start="20260418070000 +0800" stop="20260418090000 +0800" channel="903">
+    <title lang="zh_HK">Do Re Mi Fa 酸</title>
+    <desc>阿酸</desc>
+  </programme>
+  <programme start="20260418090000 +0800" stop="20260418110000 +0800" channel="903">
+    <title lang="zh_HK">西加航空</title>
+    <desc>謝茜嘉</desc>
+  </programme>
+  <programme start="20260418110000 +0800" stop="20260418130000 +0800" channel="903">
+    <title lang="zh_HK">903 專業推介</title>
+    <desc>當奴</desc>
+  </programme>
+  <programme start="20260418130000 +0800" stop="20260418140000 +0800" channel="903">
+    <title lang="zh_HK">主子主場館</title>
+    <desc>馬騮搣</desc>
+  </programme>
+  <programme start="20260418140000 +0800" stop="20260418150000 +0800" channel="903">
+    <title lang="zh_HK">903格</title>
+    <desc>方俊傑,月巴氏</desc>
+  </programme>
+  <programme start="20260418150000 +0800" stop="20260418170000 +0800" channel="903">
+    <title lang="zh_HK">903 豁達推介</title>
+    <desc>梁文禮</desc>
+  </programme>
+  <programme start="20260418170000 +0800" stop="20260418180000 +0800" channel="903">
+    <title lang="zh_HK">雙人套訪</title>
+    <desc>余德丞,傑朱</desc>
+  </programme>
+  <programme start="20260418180000 +0800" stop="20260418200000 +0800" channel="903">
+    <title lang="zh_HK">那天我走上了歪路</title>
+    <desc>歪歪</desc>
+  </programme>
+  <programme start="20260418200000 +0800" stop="20260418220000 +0800" channel="903">
+    <title lang="zh_HK">Chi Chung&#x27;s Choice</title>
+    <desc>黃志淙</desc>
+  </programme>
+  <programme start="20260418220000 +0800" stop="20260418230000 +0800" channel="903">
+    <title lang="zh_HK">在入睡前交換對白</title>
+    <desc>薛晉寧</desc>
+  </programme>
+  <programme start="20260418230000 +0800" stop="20260419010000 +0800" channel="903">
+    <title lang="zh_HK">公子會</title>
+    <desc>森美,火火,劉翁</desc>
+  </programme>
+  <programme start="20260419010000 +0800" stop="20260419020000 +0800" channel="903">
+    <title lang="zh_HK">皇牌出場</title>
+    <desc>Marco,Keyman</desc>
+  </programme>
+  <programme start="20260419020000 +0800" stop="20260419060000 +0800" channel="903">
+    <title lang="zh_HK">一切從音樂開始</title>
+    <desc>余宜發,蔡靜怡,江慧楓</desc>
+  </programme>
+  <programme start="20260419060000 +0800" stop="20260419080000 +0800" channel="903">
+    <title lang="zh_HK">梁子力學</title>
+    <desc>梁子</desc>
+  </programme>
+  <programme start="20260419080000 +0800" stop="20260419100000 +0800" channel="903">
+    <title lang="zh_HK">國語類</title>
+    <desc>雲妮</desc>
+  </programme>
+  <programme start="20260419100000 +0800" stop="20260419120000 +0800" channel="903">
+    <title lang="zh_HK">Urban Touch</title>
+    <desc>急急子</desc>
+  </programme>
+  <programme start="20260419120000 +0800" stop="20260419140000 +0800" channel="903">
+    <title lang="zh_HK">讀賣Sunday</title>
+    <desc>少爺占,王貽興</desc>
+  </programme>
+  <programme start="20260419140000 +0800" stop="20260419160000 +0800" channel="903">
+    <title lang="zh_HK">兒童適宜</title>
+    <desc>朱薰,泰山</desc>
+  </programme>
+  <programme start="20260419160000 +0800" stop="20260419180000 +0800" channel="903">
+    <title lang="zh_HK">韓曜日</title>
+    <desc>阿正</desc>
+  </programme>
+  <programme start="20260419180000 +0800" stop="20260419190000 +0800" channel="903">
+    <title lang="zh_HK">叱咤樂壇Brand Yourself</title>
+    <desc>Woody</desc>
+  </programme>
+  <programme start="20260419190000 +0800" stop="20260419210000 +0800" channel="903">
+    <title lang="zh_HK">咆哮山莊</title>
+    <desc>903 DJ,Jacky</desc>
+  </programme>
+  <programme start="20260419210000 +0800" stop="20260419230000 +0800" channel="903">
+    <title lang="zh_HK">903國民教育</title>
+    <desc>健吾</desc>
+  </programme>
+  <programme start="20260419230000 +0800" stop="20260420010000 +0800" channel="903">
+    <title lang="zh_HK">夜間失格</title>
+    <desc>Oscar</desc>
+  </programme>
+  <programme start="20260420010000 +0800" stop="20260420020000 +0800" channel="903">
+    <title lang="zh_HK">艾爾絲懷疑仙境</title>
+    <desc>Elsie</desc>
+  </programme>
+</tv>
